@@ -34,6 +34,7 @@ a{
 .mikimouse-text{
     padding-top: 27px;
     text-shadow: 0px 4px 4px #00000040;
+    padding-bottom: 35px;
 }
 .vaine{
     padding-top: 99px;
@@ -56,6 +57,7 @@ a{
     width: 494px;
     height: 89px;
     padding-top: 27px;
+    padding-bottom: 35px;
 }
 .koko{
     padding-top: 99px;
@@ -75,9 +77,8 @@ a{
     margin-bottom: 28px;
 }
 .koko-text{
-    width: 494px;
-    height: 89px;
     padding-top: 27px;
+    padding-bottom: 35px;
 }
 span{
     width: 74px;
